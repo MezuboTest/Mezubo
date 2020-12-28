@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dgalindo\\source\\repos\\api.roulette\\api.roulette.csproj": {}
+    "C:\\Users\\dgalindo\\Documents\\GitPersonal\\Mezubo\\api.roulette\\api.roulette.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dgalindo\\source\\repos\\api.roulette\\api.roulette.csproj": {
+    "C:\\Users\\dgalindo\\Documents\\GitPersonal\\Mezubo\\api.roulette\\api.roulette.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dgalindo\\source\\repos\\api.roulette\\api.roulette.csproj",
+        "projectUniqueName": "C:\\Users\\dgalindo\\Documents\\GitPersonal\\Mezubo\\api.roulette\\api.roulette.csproj",
         "projectName": "api.roulette",
-        "projectPath": "C:\\Users\\dgalindo\\source\\repos\\api.roulette\\api.roulette.csproj",
+        "projectPath": "C:\\Users\\dgalindo\\Documents\\GitPersonal\\Mezubo\\api.roulette\\api.roulette.csproj",
         "packagesPath": "C:\\Users\\dgalindo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dgalindo\\source\\repos\\api.roulette\\obj\\",
+        "outputPath": "C:\\Users\\dgalindo\\Documents\\GitPersonal\\Mezubo\\api.roulette\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dgalindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
