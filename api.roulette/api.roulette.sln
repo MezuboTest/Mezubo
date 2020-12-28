@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.roulette", "api.roulette.csproj", "{DA68283F-5D10-418E-949E-B076658F2864}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.roulette.Tests", "..\api.roulette.Tests\api.roulette.Tests.csproj", "{C6ACF0E8-C9FE-473A-9B65-5DE0FA6DCE25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA68283F-5D10-418E-949E-B076658F2864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA68283F-5D10-418E-949E-B076658F2864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA68283F-5D10-418E-949E-B076658F2864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA68283F-5D10-418E-949E-B076658F2864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6ACF0E8-C9FE-473A-9B65-5DE0FA6DCE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ACF0E8-C9FE-473A-9B65-5DE0FA6DCE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ACF0E8-C9FE-473A-9B65-5DE0FA6DCE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ACF0E8-C9FE-473A-9B65-5DE0FA6DCE25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5458114-FAD1-4645-9107-AC7D00624AC7}
+	EndGlobalSection
+EndGlobal
